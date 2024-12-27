@@ -10,6 +10,21 @@
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
 
+### 🌟 **My Portfolio Website**
+
+<div align="center">
+  <a href="https://saiprasadreddy.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-ff69b4?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Link">
+  </a>
+</div>
+
+<p align="center">
+  🚀 Explore my latest projects, achievements, and blog posts on my portfolio website:  
+  <a href="https://saiprasadreddy.netlify.app/" target="_blank">**saiprasadreddy.netlify.app**</a>  
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 - 🚀 Passionate about exploring new technologies and solving real-world problems through code.
@@ -90,9 +105,10 @@
 
 ### 🌟 Featured Projects
 
-#### 📌 [My Portfolio Website](https://github.com/saiprasadreddy33/portfolio)
-- A responsive portfolio showcasing my projects, skills, and experience.
-- Built with **React.js**, **TailwindCSS**, and **Framer Motion** for animations.
+#### 📌 [My Portfolio Website](https://saiprasadreddy.netlify.app/)
+- A fully responsive and dynamic portfolio to showcase my projects and achievements.
+- Built using **React**, **Tailwind CSS**, and **Netlify** for seamless deployment.
+- Explore my latest work: [saiprasadreddy.netlify.app](https://saiprasadreddy.netlify.app/)
 
 #### 📌 [Task Management App](https://github.com/saiprasadreddy33/task-manager)
 - A collaborative task management tool with drag-and-drop functionality.
@@ -118,6 +134,4 @@
    ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saiprasadreddy33&theme=react-dark)
 
 2. **Random Dev Quote**
-   > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* – Martin Fowler
-
----
+   > *"Simplicity is the soul of efficiency."* – Austin Freeman
