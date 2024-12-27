@@ -5,7 +5,7 @@
   <h1>Hi 👋, I'm Sai Prasad Reddy</h1>
   <h3>Aspiring Software Engineer | Lifelong Learner | Tech Enthusiast</h3>
 </div>
-
+https://camo.githubusercontent.com/3163bf3b5516869f3002265abe89fe4ad9c09e32e28781e2fdf004ca72a8d72a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73616970726173616472656464793333266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
 ---
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 - 🚀 Passionate about exploring new technologies and solving real-world problems through code.
-- 🌱 Currently learning **Next.js** and **TailwindCSS**.
+- 🌱 Currently learning **SvelteKit** and building exciting applications.
 - 🏆 Participating in hackathons and coding competitions to sharpen my skills.
 - 📫 Reach me at **ipsai047@gmail.com**
 - ⚡ Fun Fact: I love building creative side projects and exploring AI-powered solutions.
@@ -35,11 +35,17 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" />
   </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" />
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" />
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" />
+  </a>
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="Svelte" width="50" />
   </a>
 </div>
 
@@ -66,6 +72,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saiprasadreddy33&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiprasadreddy33&layout=compact&theme=radical" alt="Top Languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/3163bf3b5516869f3002265abe89fe4ad9c09e32e28781e2fdf004ca72a8d72a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73616970726173616472656464793333266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="Profile Views" />
 </p>
 
 ---
@@ -111,5 +121,3 @@
    > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* – Martin Fowler
 
 ---
-
-Feel free to suggest more creative ideas, and let’s make this README even better! 😊
