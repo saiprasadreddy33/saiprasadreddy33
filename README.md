@@ -5,7 +5,7 @@
   <h1>Hi 👋, I'm Sai Prasad Reddy</h1>
   <h3>Aspiring Software Engineer | Lifelong Learner | Tech Enthusiast</h3>
 </div>
-https://camo.githubusercontent.com/3163bf3b5516869f3002265abe89fe4ad9c09e32e28781e2fdf004ca72a8d72a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73616970726173616472656464793333266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
+
 ---
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
