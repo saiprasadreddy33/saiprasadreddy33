@@ -20,7 +20,7 @@
 
 <p align="center">
   🚀 Explore my latest projects, achievements, and blog posts on my portfolio website:  
-  <a href="https://saiprasadreddy.netlify.app/" target="_blank">**saiprasadreddy.netlify.app**</a>  
+  <a href="https://saiprasadreddy.netlify.app/" target="_blank"></a>  
 </p>
 
 ---
@@ -134,4 +134,4 @@
    ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saiprasadreddy33&theme=react-dark)
 
 2. **Random Dev Quote**
-   > *"Simplicity is the soul of efficiency."* – Austin Freeman
+   > *"The best error message is the one that never shows up."* – Thomas Fuchs
